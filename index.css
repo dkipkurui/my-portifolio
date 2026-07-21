@@ -536,7 +536,7 @@ text-transform: capitalize;
 
 
 
-@media screen and (max-width: 601px){
+@media screen and (max-width: 480px){
     .container{
         display: block;
         height: 100vh;
